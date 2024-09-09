@@ -1,0 +1,6 @@
+Agregar un nuevo contacto a un proveedor
+
+db.proveedores.updateOne(
+  {"proveedor_id": "prov3"},
+  {$set: {"contacto": "Javier Fernández - Nueva Persona de Contacto"}}
+);
