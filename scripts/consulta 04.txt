@@ -1,0 +1,10 @@
+Total de ventas por proveedor:
+
+db.ventas.aggregate([
+  {
+    $group: {
+      _id: "$proveedor",
+      total_ventas: { $sum: "$precio_total" }
+    }
+  }
+]);
