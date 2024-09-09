@@ -1,0 +1,8 @@
+Ventas realizadas en un rango de fechas:
+
+db.ventas.find({
+  "fecha": {
+    $gte: "2024-09-01",
+    $lte: "2024-09-15"
+  }
+}).toArray();
