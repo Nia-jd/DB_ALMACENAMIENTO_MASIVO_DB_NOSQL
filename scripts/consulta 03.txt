@@ -1,0 +1,11 @@
+Insertar una nueva venta:
+
+db.ventas.insertOne({
+  "venta_id": "venta031",
+  "cliente": "María López",
+  "producto": "Chaqueta Bomber Retro",
+  "cantidad": 1,
+  "precio_total": 74.99,
+  "fecha": "2024-09-30",
+  "proveedor": "Old School Fabrics"
+});

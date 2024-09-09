@@ -1,4 +1,7 @@
-Obtener el producto más caro:
+Agrgar una nueva talla en Productos
 
-db.productos.find().sort({ precio: -1 }).limit(1);
+db.productos.updateOne(
+  {"nombre": "Camisa de Rayas Vintage"},
+  {$push: {"talla": "XXL"}}
+);
 
