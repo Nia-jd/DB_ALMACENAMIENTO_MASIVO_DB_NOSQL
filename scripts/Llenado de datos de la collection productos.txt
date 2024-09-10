@@ -1,0 +1,258 @@
+Llenado de datos de la collection productos
+
+
+
+{
+  "_id": {
+    "$oid": "66df6901c79af50dfdc13c54"
+  },
+  "productos": [
+    {
+      "nombre": "Vestido Vintage Floral",
+      "categoria": "Ropa",
+      "precio": 49.99,
+      "stock": 20,
+      "descripcion": "Vestido con estampado floral de los años 70.",
+      "talla": [
+        "S",
+        "M",
+        "L"
+      ],
+      "proveedor_id": "prov1"
+    },
+    {
+      "nombre": "Chaqueta de Cuero Retro",
+      "categoria": "Ropa",
+      "precio": 89.99,
+      "stock": 10,
+      "descripcion": "Chaqueta de cuero auténtica estilo retro.",
+      "talla": [
+        "M",
+        "L"
+      ],
+      "proveedor_id": "prov2"
+    },
+    {
+      "nombre": "Camisa de Rayas Vintage",
+      "categoria": "Ropa",
+      "precio": 29.99,
+      "stock": 15,
+      "descripcion": "Camisa de rayas con diseño clásico de los 80.",
+      "talla": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "proveedor_id": "prov3"
+    },
+    {
+      "nombre": "Falda de Cuadros Años 90",
+      "categoria": "Ropa",
+      "precio": 34.99,
+      "stock": 25,
+      "descripcion": "Falda con diseño de cuadros de los años 90.",
+      "talla": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "proveedor_id": "prov4"
+    },
+    {
+      "nombre": "Jersey de Punto Vintage",
+      "categoria": "Ropa",
+      "precio": 39.99,
+      "stock": 18,
+      "descripcion": "Jersey de punto con patrones retro.",
+      "talla": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "proveedor_id": "prov1"
+    },
+    {
+      "nombre": "Pantalones Acampanados",
+      "categoria": "Ropa",
+      "precio": 59.99,
+      "stock": 12,
+      "descripcion": "Pantalones acampanados estilo años 70.",
+      "talla": [
+        "S",
+        "M"
+      ],
+      "proveedor_id": "prov2"
+    },
+    {
+      "nombre": "Cazadora Vaquera Vintage",
+      "categoria": "Ropa",
+      "precio": 79.99,
+      "stock": 14,
+      "descripcion": "Cazadora vaquera con aspecto desgastado.",
+      "talla": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "proveedor_id": "prov3"
+    },
+    {
+      "nombre": "Blusa Boho Chic",
+      "categoria": "Ropa",
+      "precio": 24.99,
+      "stock": 22,
+      "descripcion": "Blusa estilo boho con bordados.",
+      "talla": [
+        "S",
+        "M",
+        "L"
+      ],
+      "proveedor_id": "prov4"
+    },
+    {
+      "nombre": "Gabardina Clásica Vintage",
+      "categoria": "Ropa",
+      "precio": 99.99,
+      "stock": 8,
+      "descripcion": "Gabardina clásica estilo vintage.",
+      "talla": [
+        "M",
+        "L"
+      ],
+      "proveedor_id": "prov1"
+    },
+    {
+      "nombre": "Jersey de Lana con Estampado",
+      "categoria": "Ropa",
+      "precio": 44.99,
+      "stock": 16,
+      "descripcion": "Jersey de lana con estampado de los 80.",
+      "talla": [
+        "S",
+        "M"
+      ],
+      "proveedor_id": "prov2"
+    },
+    {
+      "nombre": "Vestido Maxi de Gasa",
+      "categoria": "Ropa",
+      "precio": 64.99,
+      "stock": 9,
+      "descripcion": "Vestido maxi de gasa estilo bohemio.",
+      "talla": [
+        "S",
+        "M",
+        "L"
+      ],
+      "proveedor_id": "prov3"
+    },
+    {
+      "nombre": "Camisa Hawaiana Vintage",
+      "categoria": "Ropa",
+      "precio": 27.99,
+      "stock": 20,
+      "descripcion": "Camisa con estampado hawaiano clásico.",
+      "talla": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "proveedor_id": "prov4"
+    },
+    {
+      "nombre": "Falda Plisada Retro",
+      "categoria": "Ropa",
+      "precio": 36.99,
+      "stock": 12,
+      "descripcion": "Falda plisada con diseño vintage.",
+      "talla": [
+        "S",
+        "M"
+      ],
+      "proveedor_id": "prov1"
+    },
+    {
+      "nombre": "Pantalones de Pana",
+      "categoria": "Ropa",
+      "precio": 49.99,
+      "stock": 10,
+      "descripcion": "Pantalones de pana estilo vintage.",
+      "talla": [
+        "M",
+        "L"
+      ],
+      "proveedor_id": "prov2"
+    },
+    {
+      "nombre": "Blusa con Cuello Bobo",
+      "categoria": "Ropa",
+      "precio": 32.99,
+      "stock": 15,
+      "descripcion": "Blusa con cuello estilo bobo de los 60.",
+      "talla": [
+        "S",
+        "M"
+      ],
+      "proveedor_id": "prov3"
+    },
+    {
+      "nombre": "Chaqueta Bomber Retro",
+      "categoria": "Ropa",
+      "precio": 74.99,
+      "stock": 5,
+      "descripcion": "Chaqueta bomber con look retro.",
+      "talla": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "proveedor_id": "prov4"
+    },
+    {
+      "nombre": "Sombrero Fedora Vintage",
+      "categoria": "Accesorios",
+      "precio": 19.99,
+      "stock": 30,
+      "descripcion": "Sombrero estilo fedora de los años 50.",
+      "talla": [
+        "Única"
+      ],
+      "proveedor_id": "prov1"
+    },
+    {
+      "nombre": "Bolso de Mano Retro",
+      "categoria": "Accesorios",
+      "precio": 54.99,
+      "stock": 7,
+      "descripcion": "Bolso de mano con diseño retro.",
+      "talla": [
+        "Única"
+      ],
+      "proveedor_id": "prov2"
+    },
+    {
+      "nombre": "Bufanda de Lana Vintage",
+      "categoria": "Accesorios",
+      "precio": 22.99,
+      "stock": 25,
+      "descripcion": "Bufanda de lana estilo vintage.",
+      "talla": [
+        "Única"
+      ],
+      "proveedor_id": "prov3"
+    },
+    {
+      "nombre": "Gafas de Sol Retro",
+      "categoria": "Accesorios",
+      "precio": 15.99,
+      "stock": 50,
+      "descripcion": "Gafas de sol con estilo de los 80.",
+      "talla": [
+        "Única"
+      ],
+      "proveedor_id": "prov10"
+    }
+  ]
+}
