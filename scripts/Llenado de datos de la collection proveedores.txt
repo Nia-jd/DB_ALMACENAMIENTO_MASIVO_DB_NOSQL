@@ -1,0 +1,79 @@
+Llenado de datos de la collection proveedores 
+
+{
+  "_id": {
+    "$oid": "66df6bf6c79af50dfdc13c5e"
+  },
+  "proveedores": [
+    {
+      "proveedor_id": "prov1",
+      "nombre": "Moda Retro SA",
+      "contacto": "Carlos Mendoza",
+      "telefono": "555-2345",
+      "direccion": "Calle Moda 789, Ciudad"
+    },
+    {
+      "proveedor_id": "prov2",
+      "nombre": "Vintage Leather",
+      "contacto": "Laura García",
+      "telefono": "555-6789",
+      "direccion": "Avenida Cuero 321, Ciudad"
+    },
+    {
+      "proveedor_id": "prov3",
+      "nombre": "Retro Chic",
+      "contacto": "Javier Fernández",
+      "telefono": "555-9876",
+      "direccion": "Plaza Vintage 45, Ciudad"
+    },
+    {
+      "proveedor_id": "prov4",
+      "nombre": "Old School Fabrics",
+      "contacto": "María López",
+      "telefono": "555-5432",
+      "direccion": "Calle Tejido 123, Ciudad"
+    },
+    {
+      "proveedor_id": "prov5",
+      "nombre": "Classic Couture",
+      "contacto": "Roberto Pérez",
+      "telefono": "555-6780",
+      "direccion": "Avenida Elegante 234, Ciudad"
+    },
+    {
+      "proveedor_id": "prov6",
+      "nombre": "Vintage Elegance",
+      "contacto": "Sofía Martínez",
+      "telefono": "555-3456",
+      "direccion": "Calle Moda Clásica 78, Ciudad"
+    },
+    {
+      "proveedor_id": "prov7",
+      "nombre": "Retro Essence",
+      "contacto": "Luis Rodríguez",
+      "telefono": "555-4567",
+      "direccion": "Calle Retro 34, Ciudad"
+    },
+    {
+      "proveedor_id": "prov8",
+      "nombre": "Nostalgia Fashion",
+      "contacto": "Paola Gómez",
+      "telefono": "555-2346",
+      "direccion": "Avenida Nostalgia 12, Ciudad"
+    },
+    {
+      "proveedor_id": "prov9",
+      "nombre": "Antique Styles",
+      "contacto": "Fernando Ruiz",
+      "telefono": "555-7890",
+      "direccion": "Calle Antiguo 56, Ciudad"
+    },
+    {
+      "proveedor_id": "prov10",
+      "nombre": "Vintage Trends",
+      "contacto": "Claudia Morales",
+      "telefono": "555-6781",
+      "direccion": "Plaza de la Moda 90, Ciudad"
+    }
+  ]
+}
