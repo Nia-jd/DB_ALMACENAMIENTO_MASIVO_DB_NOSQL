@@ -1,0 +1,9 @@
+Insertar un nuevo proveedor
+
+db.proveedores.insertOne({
+  "proveedor_id": "prov11",
+  "nombre": "Fashion Revival",
+  "contacto": "Ana Pérez",
+  "telefono": "555-1236",
+  "direccion": "Avenida Primavera 100, Ciudad"
+});
