@@ -1,0 +1,115 @@
+Llenado de datos de la collection clientes
+
+
+{
+  "_id": {
+    "$oid": "66df69f8c79af50dfdc13c59"
+  },
+  "clientes": [
+    {
+      "nombre": "Ana García",
+      "email": "ana.garcia@example.com",
+      "telefono": "555-1234",
+      "direccion": "Calle Falsa 123, Ciudad",
+      "historial_compras": []
+    },
+    {
+      "nombre": "Juan Pérez",
+      "email": "juan.perez@example.com",
+      "telefono": "555-5678",
+      "direccion": "Avenida Siempre Viva 456, Ciudad",
+      "historial_compras": []
+    },
+    {
+      "nombre": "Laura Martínez",
+      "email": "laura.martinez@example.com",
+      "telefono": "555-8765",
+      "direccion": "Calle del Sol 789, Ciudad",
+      "historial_compras": []
+    },
+    {
+      "nombre": "Carlos López",
+      "email": "carlos.lopez@example.com",
+      "telefono": "555-6543",
+      "direccion": "Paseo de la Luna 123, Ciudad",
+      "historial_compras": []
+    },
+    {
+      "nombre": "Sofía Fernández",
+      "email": "sofia.fernandez@example.com",
+      "telefono": "555-3210",
+      "direccion": "Avenida Principal 321, Ciudad",
+      "historial_compras": []
+    },
+    {
+      "nombre": "Miguel Torres",
+      "email": "miguel.torres@example.com",
+      "telefono": "555-2345",
+      "direccion": "Calle Nueva 456, Ciudad",
+      "historial_compras": []
+    },
+    {
+      "nombre": "Valentina Ríos",
+      "email": "valentina.rios@example.com",
+      "telefono": "555-7890",
+      "direccion": "Plaza Central 101, Ciudad",
+      "historial_compras": []
+    },
+    {
+      "nombre": "Diego Romero",
+      "email": "diego.romero@example.com",
+      "telefono": "555-0987",
+      "direccion": "Calle Real 102, Ciudad",
+      "historial_compras": []
+    },
+    {
+      "nombre": "Camila Vargas",
+      "email": "camila.vargas@example.com",
+      "telefono": "555-1122",
+      "direccion": "Avenida Libertad 103, Ciudad",
+      "historial_compras": []
+    },
+    {
+      "nombre": "Javier Gutiérrez",
+      "email": "javier.gutierrez@example.com",
+      "telefono": "555-2233",
+      "direccion": "Paseo del Parque 104, Ciudad",
+      "historial_compras": []
+    },
+    {
+      "nombre": "Elena Cruz",
+      "email": "elena.cruz@example.com",
+      "telefono": "555-3344",
+      "direccion": "Boulevard del Río 105, Ciudad",
+      "historial_compras": []
+    },
+    {
+      "nombre": "Santiago Morales",
+      "email": "santiago.morales@example.com",
+      "telefono": "555-4455",
+      "direccion": "Callejón del Arte 106, Ciudad",
+      "historial_compras": []
+    },
+    {
+      "nombre": "Natalia Delgado",
+      "email": "natalia.delgado@example.com",
+      "telefono": "555-5566",
+      "direccion": "Calle Antigua 107, Ciudad",
+      "historial_compras": []
+    },
+    {
+      "nombre": "Andrés Navarro",
+      "email": "andres.navarro@example.com",
+      "telefono": "555-6677",
+      "direccion": "Plaza de la Paz 108, Ciudad",
+      "historial_compras": []
+    },
+    {
+      "nombre": "Paula Herrera",
+      "email": "paula.herrera@example.com",
+      "telefono": "555-7788",
+      "direccion": "Calle de la Esperanza 109, Ciudad",
+      "historial_compras": []
+    }
+  ]
+}
